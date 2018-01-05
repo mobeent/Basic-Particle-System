@@ -1,4 +1,9 @@
 # Basic-Particle-System
+Project Video:
+https://youtu.be/sxmgq-UkDiU
+
+Source Code cannot be uploaded as I do not own the base engine that this project works on.
+Below is the general description of the project below. Programming language used is C++ with Directx9, Directx11 and OpenGL
 
 The project was making a basic particle system with support for all different APIs
 
